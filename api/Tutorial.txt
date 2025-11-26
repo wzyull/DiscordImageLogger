@@ -1,0 +1,10 @@
+Go to https://vercel.com
+Make An Account
+Connect Github Accout
+Select Repository
+Create Project
+Deploy
+Continute To Dashboard
+Copy The Domain Link Given
+Add The File Path To The URL Ex: https://____________/api/main Yours Is Probably Different
+Paste The Complete URL Into A Discord Chat And Wait Until Somebody Opens It In Their Browser
